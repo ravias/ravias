@@ -1,0 +1,33 @@
+Section-1: Understanding of the Project Objective
+A para of 3 to 4 lines or bullet points
+
+Section-2: Understanding of Requirements
+A para of 4 to 5 lines or bullet points
+
+Section-3: Solution Approach and Implementation
+Task 1 - Description
+Step-1: Command or Code
+        Output Screen Shot
+Step-2: Command or Code
+        Output Screen Shot
+...   ...   ...
+...   ...   ...
+Note: Use the above suggestions as applicable. If a different narration is going to be more meaningful in explaining the flow please provide the narration accordingly.
+
+Task 2 - Description
+Step-1: Command or Code
+        Output Screen Shot
+Step-2: Command or Code
+        Output Screen Shot
+...   ...   ...
+...   ...   ...
+Note: Use the above suggestions as applicable. If a different narration is going to be more meaningful in explaining the flow please provide the narration accordingly.
+
+Task 3 - Description
+Step-1: Command or Code
+        Output Screen Shot
+Step-2: Command or Code
+        Output Screen Shot
+...   ...   ...
+...   ...   ...
+Note: Use the above suggestions as applicable. If a different narration is going to be more meaningful in explaining the flow please provide the narration accordingly.

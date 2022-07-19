@@ -1,0 +1,15 @@
+
+https://aws.amazon.com/certification/certified-developer-associate/
+
+https://aws.amazon.com/certification/certified-solutions-architect-associate/
+
+https://aws.amazon.com/certification/certification-prep/?ch=cta&cta=header&p=2
+
+https://digitalcloud.training/amazon-ec2/
+
+https://www.youtube.com/watch?v=MEYXq5WeclI
+
+https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/
+
+https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf
+
